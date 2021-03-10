@@ -1,3 +1,5 @@
+Параметры печати: слой 2мм, поддержки - да, пластик - PLA/PETG
+
 ShaftHolder - 4pcs
 ShaftClamp - 4pcs
 Limiter_A - 1pcs
