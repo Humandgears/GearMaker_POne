@@ -1,1 +1,3 @@
-Печатные детали для GearMaker POne
+Печатные детали для GearMaker POne:
+Hotend - детали для хотенда
+Slider - каретки
